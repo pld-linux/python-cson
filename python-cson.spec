@@ -8,7 +8,7 @@ Summary:	Parser for Coffeescript Object Notation (CSON)
 Summary(pl.UTF-8):	Parser formatu CSON (Coffeescript Object Notation)
 Name:		python-cson
 Version:	0.8
-Release:	1
+Release:	2
 License:	MIT
 Group:		Libraries/Python
 #Source0Download: https://pypi.org/simple/cson/
